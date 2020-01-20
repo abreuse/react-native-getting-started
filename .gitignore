@@ -12,6 +12,6 @@ web-report/
 
 # macOS
 .DS_Store
-.idea/
 package-lock.json
-.expo-shared/
+/.expo-shared/
+/.idea/
